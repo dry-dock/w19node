@@ -27,7 +27,6 @@ refreshenv
 nvm install 8.16.0
 
 nvm install 10.15.3
-nvm alias default 10.15.3
 
 # Installing Git
 Install-ChocoPackage git
